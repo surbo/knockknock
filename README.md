@@ -16,4 +16,7 @@ Prerequisites: Python and SimpleHTTPServer
 
 5. Once the email as been sent, you will see a 404 response within the terminal. If the email address has been replaced with nobody@mycraftmail.com after the VerifyAccount/ you know they are using FireEye inline.
 
+>X.X.X.X - - [19/Feb/2020 22:39:44] "GET /VerifyAccount/nobody@mycraftmail.com/data HTTP/1.1" 404 -
+
+
 This works as of 2/19/2020 
