@@ -20,3 +20,5 @@ Prerequisites: Python and SimpleHTTPServer
 
 
 This works as of 2/19/2020 
+Opensource intel was used to find our if recipients were subscribers of FireEye.
+100% of recipients who were subscribers of FireEye made the nobody email call.  
